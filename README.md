@@ -1,6 +1,8 @@
 # PEACH
 作成日：2020年2月23日
 
+改訂日：2020年2月26日　サンプルについて全空港のファイルを追加
+
 作成者：江谷典子
 
 電子メール：kerotan@kcn.ne.jp
@@ -55,5 +57,10 @@ SNS Twitter情報分析を行い、Peach号が離陸・着陸する空港周囲�
 ・SAMPLE1_Tourism	Sunarnabhumi Airport（タイ）周囲の検索キーワード「観光」の場合、WordCloudおよび名詞出現頻度リスト例
 
 ・SAMPLE2_Coronavirus	Sunarnabhumi Airport（タイ）周囲の検索キーワード「コロナウィルス」の場合、WordCloudおよび名詞出現頻度リスト例
+
+・SAMPLE1_Tourism_ALL.zip	Sunarnabhumi Airport（全空港）周囲の検索キーワード「観光」の場合、WordCloudおよび名詞出現頻度リスト例
+
+・SAMPLE2_Coronavirus_ALL.zip	Sunarnabhumi Airport（全空港）周囲の検索キーワード「コロナウィルス」の場合、WordCloudおよび名詞出現頻度リスト例
+
 
 以上
